@@ -264,11 +264,11 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 ## Applied projects
 
-### **Embedded AI for Predictive Sensor Systems in Agriculture 4.0**
+### **CLAAS - Embedded AI for Predictive Sensor Systems in Agriculture 4.0**
 
 Develop embedded time series AI for monitoring and event detection in next generation agricultural machinery!
 
-Sponsored by, and in direct collaboration with, a major European manufacturer of agricultural machinery.
+Sponsored by, and in direct collaboration with CLAAS, a major European manufacturer of agricultural machinery.
 
 ##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/predictive_sensor.md))
 
@@ -282,7 +282,7 @@ Join this project with a major European manufacturer of agricultural machinery a
 
 * Deadline: April 30, 18:00 UTC
 * Hub: German Center for Open Source AI
-* Sponsor: major European manufacturer of agricultural machinery
+* Sponsor: CLAAS
 * T&C: pro-rated stipend disbursed by German Center of Open Source AI.
 
 ---
