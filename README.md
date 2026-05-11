@@ -266,6 +266,8 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 ### **CLAAS - Embedded AI for Predictive Sensor Systems in Agriculture 4.0**
 
+**APPLICATIONS CLOSED**
+
 Develop embedded time series AI for monitoring and event detection in next generation agricultural machinery!
 
 Sponsored by, and in direct collaboration with CLAAS, a major European manufacturer of agricultural machinery.
@@ -316,6 +318,8 @@ Join ecoSPECS and the German Center for Open Source AI to get the `pyaptamer` pa
 
 ### **shap**
 
+**APPLICATIONS CLOSED**
+
 **The explainable AI framework.**
 
 Contribute to `shap` - the original framework for explainable AI!
@@ -342,6 +346,8 @@ You will be contacted with further details by the `shap` team.
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 ### **sktime agentic**
+
+**APPLICATIONS CLOSED**
 
 **The unified framework for machine learning with time series - The next generation!**
 
